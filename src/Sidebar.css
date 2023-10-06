@@ -1,0 +1,32 @@
+
+.sidebar {
+    height: 100%;
+    width: 170px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #e4dada;
+    overflow-x: hidden;
+    transition: 0.3s;
+    padding-top: 60px;
+    text-align: center;
+  }
+  
+  .sidebar ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  
+  .sidebar li {
+    padding: 16px;
+    color: rgb(154, 81, 81);
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .sidebar li:hover {
+    background-color: #575757;
+  }
+.dd{
+  color: rgb(43, 0, 255);
+}
